@@ -1,7 +1,7 @@
 Mribble Beta Docs
 =================
 
-### Mribble은 개인용 노트 웹 애플리케이션으로
+### Mribble은 개인용 노트 웹 애플리케이션(미완성) 으로
 호스팅이 필요하며, RestAPI기반 노트시스템입니다
 
 *   **REST API Based:** Mribble은 노트를 위한 CRUD 페이지가 없습니다
